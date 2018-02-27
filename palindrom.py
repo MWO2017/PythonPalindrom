@@ -1,4 +1,4 @@
-
+# kod przed pullrequestem od olimpa
 #for i in range (1, 201):
 i = 199
 dana = 0
